@@ -1,4 +1,4 @@
-*Customer Churn Prediction Using XGBoost*
+'''*Customer Churn Prediction Using XGBoost*
 This project is a machine-learning-based web application that predicts whether a telecom customer will churn (leave the service).
 The prediction is made using an XGBoost model, and a Flask web interface is used to interact with the model.
 
@@ -70,4 +70,4 @@ You can deploy this project on:
 ->Joblib
 
 *Project Summary*:
- This project predicts telecom customer churn with high accuracy using XGBoost, and provides a simple and interactive web interface built with Flask.
+ This project predicts telecom customer churn with high accuracy using XGBoost, and provides a simple and interactive web interface built with Flask.'''
